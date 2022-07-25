@@ -2,7 +2,8 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
 
 ### Git Basics
 
-:cherry_blossom: Notes  
+:palm_tree: _Notes_
+
 `diff` file1 file2 - find difference between 2 files (`diff -u` file1 file2 - to find lines which differ in two files)  
 `<` - line was deleted  
 `>` - line was added  
