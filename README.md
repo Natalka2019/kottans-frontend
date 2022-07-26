@@ -20,14 +20,14 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
 
 ![git main tab test results](git_basics/git_main.png)
 
-     </details>
-     <details>
+</details>
+<details>
 
 <summary>Screenshot: git remote tab test results</summary>
 
 ![git remote tab test results](git_basics/git_remote.png)
 
-     </details>
+</details>
 
 - [ ] 1. Linux CLI and Networking  
      :sunny: Notes  
