@@ -37,13 +37,13 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
   <details>
   <summary>Screenshot: Introduction to Git and GitHub - week 3</summary>
 
-![Introduction to Git and GitHub - week 3](git_github_collaboration/git_week_3.png)
+![Introduction to Git and GitHub - week 3](vcs_github_collaboration/git_week_3.png)
 
 </details>
 <details>
 <summary>Screenshot: Introduction to Git and GitHub - week 4</summary>
 
-![Introduction to Git and GitHub - week 4](git_github_collaboration/git_week_4.png)
+![Introduction to Git and GitHub - week 4](vcs_github_collaboration/git_week_4.png)
 
 </details>
 
