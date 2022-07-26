@@ -1,8 +1,8 @@
 Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
 
-- [x] 0.  Git Basics
+### 0. Git Basics
 
-:palm_tree: [Notes](git_basics/README.md)
+- [x] [Notes](git_basics/README.md)
 
 <details>
 <summary>Screenshot: Introduction to Git and GitHub - week 1</summary>
@@ -30,11 +30,12 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
 
 </details>
 
-- [ ] 1. Linux CLI and Networking  
-     :sunny: Notes  
+### 1. Linux CLI and Networking
+
+     :sunny: Notes
      :zap: Screenshot
 
-- [ ] 2.  VCS (hello gitty), GitHub and Collaboration
+### 2. VCS (hello gitty), GitHub and Collaboration
 
 <details>
 <summary>Screenshot: Introduction to Git and GitHub - week 3</summary>
