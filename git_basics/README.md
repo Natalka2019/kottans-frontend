@@ -6,6 +6,7 @@
 `git log -p` - review the commit history with details of changes  
 `git show commitId` - info about commit and associated patch  
 `git config -l` - to look at config  
-`checkout` (for unstaged "undoos") and `reset` (for staged "undos") are generally used for making local or private 'undos'. `revert` is considered a safe operation for 'public undos' as it creates new history which can be shared remotely and doesn't overwrite history remote team members may be dependent on.  
+`checkout` (for unstaged "undos") and `reset` (for staged "undos") are generally used for making local or private 'undos'. `revert` is considered a safe operation for 'public undos' as it creates new history which can be shared remotely and doesn't overwrite history remote team members may be dependent on.  
 `git commit --amend` - allows us to modify and add changes to the **most recent** commit. Avoid for public commits as would create mess.
-`git merge --abort` - If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action.
+`git merge --abort` - If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action.  
+`git branch -r` - lists remote branches
