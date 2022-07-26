@@ -1,4 +1,4 @@
-Learning with [Kottans Front-End Course](https://github.com/kottans/frontend)
+Learning with [Kottans Front-End Course](https://github.com/kottans/frontend) :palm_tree: :sunny: :tropical_drink:
 
 ### 0. Git Basics
 
