@@ -2,29 +2,16 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend) :p
 
 ### 0. Git Basics
 
-- [x] [Notes](task_git_basics/README.md)
+[Notes](task_git_basics/README.md)
 
 <details>
-<summary>Screenshot: Introduction to Git and GitHub - week 1</summary>
+<summary>Screenshots</summary>
 
 ![Introduction to Git and GitHub - week 1](task_git_basics/git_week_1.png)
 
-</details>
-<details>
-<summary>Screenshot: Introduction to Git and GitHub - week 2</summary>
-
 ![Introduction to Git and GitHub - week 2](task_git_basics/git_week_2.png)
 
-</details>
-<details>
-<summary>Screenshot: git main tab test results</summary>
-
 ![git main tab test results](task_git_basics/git_main.png)
-
-</details>
-<details>
-
-<summary>Screenshot: git remote tab test results</summary>
 
 ![git remote tab test results](task_git_basics/git_remote.png)
 
@@ -35,13 +22,9 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend) :p
 ### 2. VCS (hello gitty), GitHub and Collaboration
 
 <details>
-<summary>Screenshot: Introduction to Git and GitHub - week 3</summary>
+<summary>Screenshots</summary>
 
 ![Introduction to Git and GitHub - week 3](task_git_collaboration/git_week_3.png)
-
-</details>
-<details>
-<summary>Screenshot: Introduction to Git and GitHub - week 4</summary>
 
 ![Introduction to Git and GitHub - week 4](task_git_collaboration/git_week_4.png)
 
