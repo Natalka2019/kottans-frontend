@@ -81,8 +81,6 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend) :p
 </details>
 
 <details>
-
-<details>
 <summary>HTTP notes</summary>
 
 Every request raised by the browser is independent. The HTTP protocol is stateless. That means that each individual request needs to carry all the information needed to fulfill it. In an HTTP request, this information is passed through headers.  
@@ -108,7 +106,6 @@ HTTP response parts:
   1) Status line: includes a status code that indicates whether the request succeeded (status code 200) or why the request failed. It also includes the HTTP version and a very brief description of the status. (HTTP/1.1 200 OK)     
   2) Headers    
   3) Body    
-
 
 </details>
 
