@@ -76,9 +76,28 @@ Learning with [Kottans Front-End Course](https://github.com/kottans/frontend) :p
 `pwd` - print working directory (to find out where you are)  
 `cd ..` - change directory to previous directory  
 `cp OriginalFileName CopiedFileName` - copy file  
+`cp -r` - copy directory  
 `rm` - remove file  
-`rmdir` - remove directory  
+`rmdir` - remove empty directory  
+`rm -r` - remove directory tree  
 `/` - root directory
+
+`~` - home directory  
+`man -k Keyword` - search command that has Keyword somewhere  
+`find -name "Name"`  
+`cat` - concatenate  
+`>` - where you want output of concatenation go. over-writes existing file  
+`>>` - appends to existing file
+
+`lpr` - send to default printer (line printer)  
+`lpq` - display print queue  
+`lprm` - remove from print queue
+
+`df` - disc free. "Used" and "Available" columns do not add up to the "1k-blocks" (total) column. That is because a percentage of the disk is always set aside for administrative use. In this case, 5% of each disk is reserved.
+
+`ps aux` - process status  
+`|` - pipe, sends the output of a command as the input to another command  
+`grep` - file for a particular pattern of characters
 
 </details>
 
@@ -112,6 +131,13 @@ Steps:
 
 </details>
 
+<details>
+<summary>Screenshots</summary>
+
+![Linux quiz](task_linux_cli/linux_quiz.png)
+
+</details>
+
 ### 2. VCS (hello gitty), GitHub and Collaboration
 
 <details>
@@ -129,24 +155,30 @@ Steps:
 <summary>Notes</summary>
 
 Horizontal margins do not collapse. Vertical margins collapse.
+
 `position: relative` The element is positioned according to the normal flow of the document, and then offset **relative to itself** based on the values of top, right, bottom, and left. The offset **does not affect the position of any other elements**; thus, the **space** given for the element **in the page layout is the same** as if position were static.  
 `position: absolute` The element is **removed from the normal document flow**, and no space is created for the element in the page layout. It is positioned **relative to its closest positioned ancestor**, if any; otherwise, it is placed relative to the initial containing block. Its final position is determined by the values of top, right, bottom, and left.  
 `position: fixed` The element is **removed from the normal document flow**, and no space is created for the element in the page layout. It is positioned **relative to the initial containing block** established by the viewport.
 
 CSS Specificity: 0,0,0,0 (inline style, id, class/pseudo-class/attribute, elements reference)
 
-`div, p` Selects all **div** elements and all **p>** elements  
-`div p` Selects all **p** elements inside **div>** elements  
+`div, p` Selects all **div** elements and all **p** elements  
+`div p` Selects all **p** elements inside **div** elements  
 `div > p` Selects all **p** elements where the direct parent is a **div** element  
 `div + p` Selects the first **p** element that is placed immediately after **div** elements  
 `p ~ ul` Selects every **ul** element that is preceded by a **p** element
+
+`colspan` attribute to span columns  
+`rowspan` attribute to span rows
+
+`<datalist>` contains a set of `<option>` elements and works with an `<input>` to search through choices. Setting type to "list" will pair the `<input>` with a `<datalist>` element if the id of both are the same.
 
 </details>    
 <details>
 <summary>Screenshots</summary>
 
-![Introduction to HTML & CSS - week 1](task_html_css_intro/HTML_CSS_week_1.png)
+![Introduction to HTML & CSS - week 1](task_html_css_intro/HTML_CSS_week1.png)
 
-![Introduction to HTML & CSS - week 2](task_html_css_intro/HTML_CSS_week_2.png)
+![Introduction to HTML & CSS - week 2](task_html_css_intro/HTML_CSS_week2.png)
 
 </details>
