@@ -173,6 +173,14 @@ CSS Specificity: 0,0,0,0 (inline style, id, class/pseudo-class/attribute, elemen
 
 `<datalist>` contains a set of `<option>` elements and works with an `<input>` to search through choices. Setting type to "list" will pair the `<input>` with a `<datalist>` element if the id of both are the same.
 
+```
+img[src*='winter'] {
+  height: 50px;
+}
+```
+
+`serif` and `sans-serif` are keyword values that can be added as a final fallback font if nothing else in the font stack is available.
+
 </details>    
 <details>
 <summary>Screenshots</summary>
@@ -180,5 +188,7 @@ CSS Specificity: 0,0,0,0 (inline style, id, class/pseudo-class/attribute, elemen
 ![Introduction to HTML & CSS - week 1](task_html_css_intro/HTML_CSS_week1.png)
 
 ![Introduction to HTML & CSS - week 2](task_html_css_intro/HTML_CSS_week2.png)
+
+![HTML & CSS intro](task_html_css_intro/html_css_intro.png)
 
 </details>
