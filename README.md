@@ -192,3 +192,62 @@ img[src*='winter'] {
 ![HTML & CSS intro](task_html_css_intro/html_css_intro.png)
 
 </details>
+
+### 4. Responsive Web Design
+
+<details>
+<summary>Notes</summary>
+
+`<meta name="viewport" content="width=device-width, initial-scale=1">`  
+`width=device-width` sets the width of the viewport to the width of the device.  
+`initial-scale=1` sets the initial zoom level when the user visits the page.
+
+```
+img {
+  max-width: 100%;
+  display: block;
+}
+```
+
+Use the `width` and `height` attributes on your <img> tag. This is because modern browsers will use this information to **reserve space** for the image before it loads in, this will help to avoid layout shifts as content loads.
+
+`<link rel="stylesheet" href="print.css" media="print">`
+
+Header, body, footer:
+
+```
+.wrapper {
+  flex-direction: column;
+  justify-content: space-between;
+}
+```
+
+```
+.wrapper {
+  flex-direction: column;
+}
+.main {
+  flex: 1 1 auto; //flex-grow (0 - no grow allowed), flex-shrink (0 - no shrink allowed)
+}
+```
+
+Create space of 16px between columns in flex container:
+
+```
+.flex_row {
+  margin: 0 -8px;
+}
+.flex_columns_inside_row {
+  padding: 0 8px;
+}
+```
+
+</details>
+<details>
+<summary>Screenshots</summary>
+
+![Flexbox Froggy](task_responsive_web_design/responsive_froggy.png)
+
+![Grid Garden](task_responsive_web_design/responsive_garden.png)
+
+</details>
