@@ -251,3 +251,42 @@ Create space of 16px between columns in flex container:
 ![Grid Garden](task_responsive_web_design/responsive_garden.png)
 
 </details>
+
+### 5. HTML & CSS Practice
+
+<details>
+<summary>Notes</summary>
+
+```
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+```
+
+</details>
+
+![demo](https://natalka2019.github.io/kottans-popup/) | ![code](https://github.com/Natalka2019/kottans-popup)
+
+### 6. JavaScript Basics
+
+<details>
+<summary>Notes</summary>
+
+**Recursive functions** must have a base case when they return without calling the function again (in this example, when n <= 0), otherwise they can never finish executing.
+
+</details>
+<details>
+<summary>Screenshots</summary>
+
+<!-- ![Flexbox Froggy](task_responsive_web_design/responsive_froggy.png)
+
+![Grid Garden](task_responsive_web_design/responsive_garden.png) -->
+
+</details>
