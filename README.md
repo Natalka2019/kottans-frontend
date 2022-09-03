@@ -272,7 +272,9 @@ Create space of 16px between columns in flex container:
 
 </details>
 
-![demo](https://natalka2019.github.io/kottans-popup/) | ![code](https://github.com/Natalka2019/kottans-popup)
+Hooli-style Popup:    
+
+[demo](https://natalka2019.github.io/kottans-popup/) | [code](https://github.com/Natalka2019/kottans-popup)
 
 ### 6. JavaScript Basics
 
@@ -285,8 +287,6 @@ Create space of 16px between columns in flex container:
 <details>
 <summary>Screenshots</summary>
 
-<!-- ![Flexbox Froggy](task_responsive_web_design/responsive_froggy.png)
-
-![Grid Garden](task_responsive_web_design/responsive_garden.png) -->
+![Intro to JS](task_js_basics/JS_intro.png)
 
 </details>
