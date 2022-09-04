@@ -281,12 +281,20 @@ Hooli-style Popup:
 <details>
 <summary>Notes</summary>
 
-**Recursive functions** must have a base case when they return without calling the function again (in this example, when n <= 0), otherwise they can never finish executing.
+**Recursive functions** must have a base case when they return without calling the function again (in this example, when n <= 0), otherwise they can never finish executing.    
+The **rest** element only works correctly as the **last** variable in the list.   
+**Reduce** has an additional parameter which takes an initial value for the accumulator. If this second parameter is not used, then the **first iteration is skipped and the second iteration gets passed the first element of the array as the accumulator**.
 
 </details>
 <details>
 <summary>Screenshots</summary>
 
-![Intro to JS](task_js_basics/JS_intro.png)
+![Intro to JS](task_js_basics/JS_intro.png)   
+
+![Basic JS and ES 6](task_js_basics/basic_js_es6.png)
+
+![Data structures and algorithm scripting](task_js_basics/basic_data_struct_and_algorithm.png)
+
+![Functional programming and algorithm scripting](task_js_basics/func_prog_alg_script.png)
 
 </details>
