@@ -297,4 +297,14 @@ The **rest** element only works correctly as the **last** variable in the list.
 
 ![Functional programming and algorithm scripting](task_js_basics/func_prog_alg_script.png)
 
-</details>
+</details>    
+
+### 7. Document Object Model    
+<details>
+<summary>Screenshots</summary>
+
+![DOM manipulation](task_js_dom/DOM_manipulation.png)  
+
+![scripting](task_js_dom/scripting.png)  
+
+</details>  
